@@ -1,0 +1,21 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 768px) and (max-width: 1920px) { 
+ .nav_margin{margin-bottom: 105px;} 
+ .nav_margin1{margin-top: 130px;}
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ 
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) { 
+.nav_margin{margin-bottom: 250px;}
+.nav_margin1{margin-top: 275px;}
+}
